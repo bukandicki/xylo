@@ -733,6 +733,7 @@ main
         border-radius: 0 8px 8px 0
         outline: none
         border: none
+        cursor: pointer
 
     &__summary-terms
         font-size: 12px
